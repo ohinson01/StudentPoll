@@ -9,7 +9,7 @@ This is a simple Windows Form C# application that prompts the user to enter an i
 
 # References
 - Final exam project from University
-- 
+  
 # Author and Date Created
 - Olivia Hinson
 - 6/10/2020
